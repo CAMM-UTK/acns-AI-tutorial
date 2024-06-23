@@ -1,6 +1,7 @@
 # acns-AI-tutorial
 Notebooks and materials for 2024 ACNS AI Tutorial
 
+1. [Supervised Learning](Intro_Supervised_Learning)
 2. [Unsupervised Learning](Intro_Unsupervised_Learning)
 
 ### Support
